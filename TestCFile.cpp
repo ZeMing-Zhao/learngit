@@ -2,6 +2,8 @@
 #include<string.h>
 #include<math.h>
 
+//Creating a new branch is quick.
+ 
 int main()
 {
 	int m,n,i,flag,max,min,count;
