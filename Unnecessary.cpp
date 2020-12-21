@@ -57,6 +57,7 @@ public:
  
 int main()
 {
+	//Just write a note for this c++ file.
     int n;
     cin>>n;
 	Indextable p(n);
@@ -71,4 +72,5 @@ int main()
         cin>>a;
         if(p.search(a)==0) cout<<"error"<<endl;
     }
+
 }
